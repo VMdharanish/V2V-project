@@ -1,0 +1,7 @@
+{
+  "name": "V2V Connect",
+  "description": "A mobile-based Vehicle-to-Vehicle communication system for real-time safety alerts and hazard awareness.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
